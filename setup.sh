@@ -43,7 +43,6 @@ echo '                                                          '
 echo '             AutoScript By SSH SEDANG NETWORK             '
 echo '              Telegram : t.me/sshsedang4                  '
 sleep 20
-exit 0
 fi
 echo '============================================='
 echo '         Silakan Tunggu sebentar '
