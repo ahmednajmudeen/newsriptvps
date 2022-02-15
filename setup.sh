@@ -33,9 +33,8 @@ clear
 echo -e "${green} ORAIT, IP VPS SUDAH DI KEY IN...${NC}"
 sleep 5
 else
-clear
-echo "sila contact admin untuk premium"
-rm -f setup.sh
+echo -e "${green} ORAIT, IP VPS SUDAH DI KEY IN...${NC}"
+sleep 5
 
 echo '                   Wellcome User....                      '
 echo '                                                          '
