@@ -26,24 +26,9 @@ fi
 red='\e[1;31m'
 green='\e[0;32m'
 NC='\e[0m'
-MYIP=$(wget -qO- ipinfo.io/ip);
-IZIN=$( wget -qO- ipinfo.io/ip)
-if [ $MYIP = $IZIN ]; then
-clear
-echo -e "${green} ORAIT, IP VPS SUDAH DI KEY IN...${NC}"
-sleep 5
-else
-echo -e "${green} ORAIT, IP VPS SUDAH DI KEY IN...${NC}"
-sleep 5
 
-echo '                   Wellcome User....                      '
-echo '                                                          '
-echo '                                                          '
-echo '                                                          '
-echo '             AutoScript By SSH SEDANG NETWORK             '
-echo '              Telegram : t.me/sshsedang4                  '
-sleep 20
-fi
+
+
 echo '============================================='
 echo '         Silakan Tunggu sebentar '
 echo 'Process Update & Upgrade Sedang Dijalankan '
